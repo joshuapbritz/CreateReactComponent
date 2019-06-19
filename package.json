@@ -36,6 +36,7 @@
   },
   "preferGlobal": true,
   "bin": {
-    "muncher": "./dist/index.js"
+    "create-react-component": "./dist/index.js",
+    "crc": "./dist/index.js"
   }
 }
