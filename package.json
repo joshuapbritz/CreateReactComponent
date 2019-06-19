@@ -21,7 +21,7 @@
     "prettyjson": "^1.2.1",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
-    "typescript": "^3.4.5",
+    "typescript": "^3.5.2",
     "xml-formatter": "^1.1.0"
   },
   "devDependencies": {
