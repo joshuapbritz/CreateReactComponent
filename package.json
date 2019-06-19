@@ -1,6 +1,6 @@
 {
   "name": "@codinger/create-react-component",
-  "version": "1.0.0-rc1",
+  "version": "1.0.0-rc2",
   "description": "Generate react components with a CLI command",
   "scripts": {
     "build": "rollup -c",
