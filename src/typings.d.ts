@@ -1,0 +1,3 @@
+interface Name {
+    value: string;
+}
