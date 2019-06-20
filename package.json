@@ -4,7 +4,8 @@
   "description": "Generate react components with a CLI command",
   "scripts": {
     "build": "rollup -c",
-    "build:dev": "rollup -c -w"
+    "build:dev": "rollup -c -w",
+    "test": "echo \"run tests\""
   },
   "homepage": "https://package.onepointfour.io/muncher",
   "author": "Joshua Britz",
