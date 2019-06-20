@@ -30,6 +30,10 @@ jobs:
           key: v2-dependencies-{{ checksum "package.json" }}
 
       - run:
+          name: Run unit tests
+          command: yarn test
+
+      - run:
           name: Build out the project
           command: yarn build
 
