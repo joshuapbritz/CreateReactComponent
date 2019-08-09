@@ -15,7 +15,7 @@
     "dist"
   ],
   "dependencies": {
-    "commander": "^2.20.0",
+    "commander": "^3.0.0",
     "prettyjson": "^1.2.1",
     "typescript": "^3.5.2"
   },
